@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255221626122",
+    "project_id": "mtgarchive-c329d",
+    "storage_bucket": "mtgarchive-c329d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255221626122:android:53989b3d5f7179e7bab6f3",
+        "android_client_info": {
+          "package_name": "com.tremend.playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255221626122-53saa1e616ltepta22gjb6hfhlnns8u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYNeg2553vzaDUJdnxaeMT9q1hiiFOn7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255221626122-53saa1e616ltepta22gjb6hfhlnns8u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
