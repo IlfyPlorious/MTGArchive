@@ -1,10 +1,8 @@
 import 'package:bloc/bloc.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:equatable/equatable.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get_it/get_it.dart';
 import 'package:logger/logger.dart';
-import 'package:playground/network/ApiService/firestore_service.dart';
 import 'package:playground/network/repository/firestore_repository.dart';
 import 'package:playground/network/responsemodels/deck.dart';
 import 'package:playground/utils/constants.dart';

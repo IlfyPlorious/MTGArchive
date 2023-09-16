@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:logger/logger.dart';
-import 'package:playground/network/ApiService/firestore_service.dart';
+import 'package:playground/network/apiservice/firestore_service.dart';
 import 'package:playground/network/responsemodels/card.dart';
 import 'package:playground/network/responsemodels/deck.dart';
 import 'package:playground/network/responsemodels/firebase/deck_card.dart';

@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:logger/logger.dart';
-import 'package:playground/network/ApiService/apiservice.dart';
-import 'package:playground/network/ApiService/scryfall_service.dart';
+import 'package:playground/network/apiservice/apiservice.dart';
+import 'package:playground/network/apiservice/scryfall_service.dart';
 import 'package:playground/network/exceptions/exceptions.dart';
 import 'package:playground/network/requestmodels/cardsrequest.dart';
 import 'package:playground/network/requestmodels/search_request.dart';
